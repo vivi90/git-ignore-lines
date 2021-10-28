@@ -19,6 +19,7 @@ Sometimes it's required to ignore some lines in files (for example auth keys in 
  - The `.gitignorelines` file doesn't support comments inside it.
  - The `|` character is used as an delimiter for the `grep` command, 
    so please avoid using it inside the `.gitignorelines` file.
+ - Step `3.` of `How to clone` doesn't work in `PowerShell`, so please use `Git Bash` for this step if you are working with Windows.
 
 ## Based on
  - [Kache](https://stackoverflow.com/users/234593/kache)'s approach: https://stackoverflow.com/a/16244970/3699361 (License: CC BY-SA 4.0)
