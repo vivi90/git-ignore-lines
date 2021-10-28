@@ -1,1 +1,1 @@
-*.ini filter=ignorelines
+*.[iI][nN][iI] filter=ignorelines
